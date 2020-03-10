@@ -1,2 +1,2 @@
 # Nawie
-Game Artist Student
+Aspiring Game Developer Student
